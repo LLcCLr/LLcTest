@@ -18,6 +18,8 @@
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
     NSLog(@"从此搞定GitHub");
+    NSLog(@"从此搞定GitHub");
+
     
 }
 
